@@ -71,7 +71,7 @@ Training time:   ~15 minutes
 
 Installation
 1. Clone the repository
-bashgit clone https://github.com/yourusername/nlp-customer-support.git
+bashgit clone https://github.com/yourusername/nlp_project_CLINIC150.git
 cd nlp-customer-support
 2. Install dependencies
 bashpip install -r requirements.txt
